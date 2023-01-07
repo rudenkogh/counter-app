@@ -1,0 +1,15 @@
+div.blue {
+    font-size: 32px;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 12px;
+    color: lightseagreen;
+}
+
+div.red {
+    font-size: 36px;
+    font-weight: 800;
+    display: inline-block;
+    margin-top: 7px;
+    color: red;
+}
